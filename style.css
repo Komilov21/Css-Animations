@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(117, 73, 73);
+}
+@media (max-width:500px){
+    h1{
+        font-size:20px;
+        color:#fff;
+    }
+}
+
+
+@media (min-width:500px){
+    h1{
+        font-size:30px;
+        color:#fff;
+    }
+}
+
+@media (min-width:1000px){
+    h1{
+        font-size:40px;
+        color:#fff;
+    }
+}
